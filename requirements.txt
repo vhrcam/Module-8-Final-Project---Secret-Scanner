@@ -1,0 +1,4 @@
+
+```text
+# No external libraries required
+# Uses only built-in Python modules
